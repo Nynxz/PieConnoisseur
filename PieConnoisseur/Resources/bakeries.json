@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "name": "Stone Artisan Bakers",
+        "address": "500 Logan Rd, Greenslopes QLD 4120",
+        "coordinates" : {
+            "longitude": -27.50452048446497,
+            "latitude": 153.04826585704407
+        }
+
+    }
+]
