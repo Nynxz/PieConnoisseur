@@ -6,5 +6,13 @@
         "imageReference": "https://cdn.australia247.info/assets/uploads/f0fa57a9650823f8f49458b78d7b870f_-queensland-brisbane-city-greenslopes-stone-artisan-bakers-07-3847-8697html.jpg",
         "ratingOutOf5": 4.5,
         "description": "A Good Pie! A Good Pie! A Good Pie! A Good Pie! A Good Pie! A Good Pie! A Good Pie! A Good Pie! A Good Pie! "
+    },
+    {
+        "bakeryID": 1,
+        "pieName": "Cheese & Bacon Pie Test",
+        "image": "stone_artisan_pie",
+        "imageReference": "https://cdn.australia247.info/assets/uploads/f0fa57a9650823f8f49458b78d7b870f_-queensland-brisbane-city-greenslopes-stone-artisan-bakers-07-3847-8697html.jpg",
+        "ratingOutOf5": 5,
+        "description": " TEST A Good Pie! A Good Pie! A Good Pie! A Good Pie! A Good Pie! A Good Pie! A Good Pie! A Good Pie! A Good Pie! "
     }
 ]
